@@ -7,7 +7,7 @@ This repository contains two projects: AddButton and AddPanel, showcasing a Revi
 1. Clone the repository:
 
     ```bash
-    git clone [https://github.com/kunalMore23/RevitAPI.git](https://github.com/RamCCTech/RevitAPI.git)
+    https://github.com/RamCCTech/RevitAPI.git
     ```
 
 2. Open the solution file of the desired project in Visual Studio.
